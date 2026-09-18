@@ -1,0 +1,15 @@
+{
+	"name": "df-azurearnabc",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "057b09a6-e4af-4002-b735-9572e54e2334",
+		"tenantId": "d7cc7c84-6213-4eee-ad80-78df1ef14dba"
+	}
+}
